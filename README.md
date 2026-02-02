@@ -56,4 +56,4 @@ ANÁLISE DE VENDAS - PRIMEIRO TRIMESTRE 2025
 **Vinicius Alves Silva**
 - Estudante de Ciência de Dados
 - Certificado Google & IBM em Python
-- [LinkedIn](seu-link-aqui)
+- [LinkedIn](https://www.linkedin.com/in/vinicius-alves-silva-b666b6364/)
